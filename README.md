@@ -104,9 +104,11 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 </p>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmg0157&show_icons=true&theme=radical)
-<div align="center">
-    
+
+<div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmg0157&show_icons=true&theme=radical)
+    <div align="center">
+</div>
 <!-- ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=2jie0516&show_icons=true) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2jie0516)](https://solved.ac/2jie0516/)
     
