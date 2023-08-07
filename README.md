@@ -94,7 +94,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 <br>
 
-</div>
+<div align="center">
 <!-- ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=kmg0157&show_icons=true) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmg0157)](https://solved.ac/kmg0157/)
     
