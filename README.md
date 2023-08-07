@@ -1,8 +1,6 @@
 ### Hi there 👋
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=10,1,10&height=300&section=header&text=For%20the%20Future&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Beyond%20Programming%20&descAlignY=60&descAlign=50)
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <p align="center">
     <Strong>☁️blog☁️</Strong><br><br>
     <a href="https://kmg0157.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
