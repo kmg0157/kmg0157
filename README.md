@@ -1,6 +1,14 @@
 ### Hi there 👋
+<div align="center">
+<h3>🚀: I'm... </h3>
+<p>Hi There! I'm a frontEnd developer.</p>
+<p> My motto is to live without regret</p>
+<p>I study many things that I want to learn.📖:</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<h3>❤️ I wanna be studty...</h3>
+<p>💪Hadoop,&nbsp;&nbsp;🖥Docker,&nbsp;&nbsp;💻Kubernetics,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
+
 <p align="center">
     <Strong>☁️blog☁️</Strong><br><br>
     <a href="https://kmg0157.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
