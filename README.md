@@ -1,9 +1,9 @@
 <div align="center">
 <h3>🚀 I'm... </h3>
 <p>Hi There✋! I don't know what I'm gonna be.</p>
-<p>But I'm sure I'll succeed!🤑:</p>
-<p> My motto is to live without regret🫀:</p>
-<p>I study many things that I want to learn.📖:</p>
+<p>But I'm sure I'll succeed!🤑</p>
+<p> My motto is to live without regret🫀</p>
+<p>I study many things that I want to learn📖</p>
 </div>
 
 <div align="center">
@@ -29,19 +29,30 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
     
 |Activity|Role|Date|
 |:---:|:---:|:---:|
+|충북대학교|학부연구생|MAR 2022 ~ |
 |CJ OliveNetworks|Remote Internship 수료|APR 2023 ~ JUL 2023|
 |한국전자통신연구원(ETRI) 지능형휴먼트윈연구센터|하계 연구연수생|JUL 2023 ~ AUG 2023|
 </p>
 <br>
 
 <p align="center">
-<Strong>:trophy:Award:trophy:</Strong><br>
+<Strong>🏆Award🏆</Strong><br>
 
 |Award|Prize|Date|
 |:---:|:---:|:---:|
 |충북대학교 2022 유레카 동계 창업캠프|우수상|2023.01|
 
 </p>   
+
+<p align="center">
+<Strong>📰Paper📰</Strong><br>
+
+|Title|Contribution|Date|
+|:---:|:---:|:---:|
+|스마트워치 센서의 실시간성을 고려한 데이터 분류 및 압축 전송 시스템|Co-author|NOV 2022|
+|실내 측위를 위한 ICP 기반 GPS/IMU 데이터 정합 방법|Co-author|NOV 2022|
+
+</p>  
 
 <br>
 
