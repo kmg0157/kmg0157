@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://capsule-render.vercel.app/api?
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=For%20the%20Future&fontSize=90)
 <!--
 **kmg0157/kmg0157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
