@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=For%20the%20Future&fontSize=90animation=fadeIn&fontAlignY=38&desc=Beyond%20Programming%20&descAlignY=60&descAlign=50)
-
 <br>
 
 <p align="center">
