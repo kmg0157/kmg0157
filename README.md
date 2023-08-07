@@ -1,13 +1,12 @@
-### Hi there 👋
 <div align="center">
-<h3>🚀: I'm... </h3>
-<p>Hi There! I'm a frontEnd developer.</p>
+<h3>🚀 I'm... </h3>
+<p>Hi There✋! I'm a frontEnd developer.</p>
 <p> My motto is to live without regret</p>
 <p>I study many things that I want to learn.📖:</p>
 </div>
 
 <h3>❤️ I wanna be studty...</h3>
-<p>💪Hadoop,&nbsp;&nbsp;🖥Docker,&nbsp;&nbsp;💻Kubernetics,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
+<p>📊:Hadoop,&nbsp;&nbsp;🖥️:Docker,&nbsp;&nbsp;☁️:Kubernetics,&nbsp;&nbsp;🌴:AWS,&nbsp;&nbsp;and....🤖:AI</p>
 
 <p align="center">
     <Strong>☁️blog☁️</Strong><br><br>
