@@ -6,14 +6,14 @@
 
 <p align="center">
     <Strong>☁️blog☁️</Strong><br><br>
-    <a href="[https://cb036133.tistory.com](https://kmg0157.tistory.com/)/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <a href="https://kmg0157.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <br><br>
-<Strong>📧Email📧</Strong><br>yamsang2002@naver.com<br>
+<Strong>📧Email📧</Strong><br>kmg0157@naver.com<br>
 </p>
 <br>
 <p align="center">
 <Strong>🏫University🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2017 ~ FEB  2024</em>
+Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2019 ~ </em>
 </p>   
 <br>
 <div align="center">
@@ -22,9 +22,8 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
     
 |Activity|Role|Date|
 |:---:|:---:|:---:|
-|SK 쉴더스|FAB Risk 분석 (인턴)|SEP 2022 ~ DEC 2022|
-|라이징 캠프|백엔드 과정 수료|SEP 2022 ~ FEB 2023|
-|프로그래머스 데브코스|백엔드 과정|JUNE 2023 ~ DEC 2023|    
+|CJ OliveNetworks|Remote Internship 수료|APR 2023 ~ JUL 2023|
+|한국전자통신연구원(ETRI) 지능형휴먼트윈연구센터|하계 연구연수생|JUL 2023 ~ AUG 2023|
 </p>
 <br>
 
@@ -33,7 +32,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 |Award|Prize|Date|
 |:---:|:---:|:---:|
-|충북대학교 창업 엑셀레이션 (식습관 분석 서비스)|우수상|2022.09|
+|LINC 사업단과 함께하는 충북대학교 2022 유레카 동계 창업캠프|우수상|2023.01|
 
 </p>   
 
