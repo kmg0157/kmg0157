@@ -32,7 +32,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 |Award|Prize|Date|
 |:---:|:---:|:---:|
-|LINC 사업단과 함께하는 충북대학교 2022 유레카 동계 창업캠프|우수상|2023.01|
+|충북대학교 2022 유레카 동계 창업캠프|우수상|2023.01|
 
 </p>   
 
@@ -43,8 +43,8 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 |Certificate|Grade|Date|
 |:---:|:---:|:---:|
-|OPIC|Intermediate High (IH)|2022.09|
-|TOEIC|850|2020.09|
+|TOEIC|840|2023.03|
+|ISTQB|CTFL|2022.07|
 
 </p>        
     
@@ -104,7 +104,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 </p>
 
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmg0157&show_icons=true&theme=radical)
 <div align="center">
     
 <!-- ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=2jie0516&show_icons=true) -->
