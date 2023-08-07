@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=10,1,10&height=300&section=header&text=For%20the%20Future&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Beyond%20Programming%20&descAlignY=60&descAlign=50)
-<br>
 </div>
 
 <p align="center">
