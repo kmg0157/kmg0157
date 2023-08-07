@@ -58,13 +58,11 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 <p align="center" display="inline-block">
     💡Language <br>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+    
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-</p>
-<p align="center" display="inline-block">
-    💡Backend <br>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=Black">
 </p>
 <p align="center" display="inline-block">
     💡Tools <br>
@@ -76,10 +74,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
     💡DB <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-<p align="center" display="inline-block">
-    💡DevOps / Infra <br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-</p>
+
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -90,8 +85,11 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
     💡Used at least once
 </p>
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <br>
   
