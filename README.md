@@ -61,7 +61,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 
 |Certificate|Grade|Date|
 |:---:|:---:|:---:|
-|TOEIC|840|2023.03|
+|TOEIC|810|2023.03|
 |ISTQB|CTFL|2022.07|
 
 </p>        
