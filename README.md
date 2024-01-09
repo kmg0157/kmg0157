@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<h3>❤️ I wanna be studty...</h3>
+<h3>❤️ I wanna be study...</h3>
 <p>📊:Hadoop,&nbsp;&nbsp;🖥️:Docker,&nbsp;&nbsp;☁️:Kubernetics,&nbsp;&nbsp;🌴:AWS,&nbsp;&nbsp;and....🤖:AI</p>
 </div>
 
