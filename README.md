@@ -32,6 +32,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |충북대학교|학부연구생|MAR 2022 ~ |
 |CJ OliveNetworks|Remote Internship 수료|APR 2023 ~ JUL 2023|
 |한국전자통신연구원(ETRI) 지능형휴먼트윈연구센터|하계 연구연수생|JUL 2023 ~ AUG 2023|
+|한국전자통신연구원(ETRI) 모빌리티항법연구실|동계 연구연수생|JAN 2024 ~ FEB 2024|
 </p>
 <br>
 
@@ -41,6 +42,7 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |Award|Prize|Date|
 |:---:|:---:|:---:|
 |충북대학교 2022 유레카 동계 창업캠프|우수상|2023.01|
+|한국콘텐츠학회 공유협업을 위한 산학협력 캡스톤 디자인 논문 경진대회|대상|2024.05|
 
 </p>   
 
@@ -62,7 +64,9 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 |Certificate|Grade|Date|
 |:---:|:---:|:---:|
 |TOEIC|810|2023.03|
+|OPIc|IH|2024.03|
 |ISTQB|CTFL|2022.07|
+|SQLD|Developer|2024.05|
 
 </p>        
     
