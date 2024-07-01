@@ -8,7 +8,7 @@
 
 <div align="center">
 <h3>❤️ I wanna be study...</h3>
-<p>📊:AI,&nbsp;&nbsp;🖥️:IoT,&nbsp;&nbsp;☁️:Cloud,&nbsp;&nbsp;🌴:Network,&nbsp;&nbsp;</p>
+<p>📊:AI,&nbsp;&nbsp;🖥️:IoT,&nbsp;&nbsp;☁️:Cloud,&nbsp;&nbsp;🌴:Network&nbsp;&nbsp;</p>
 </div>
 
 <p align="center">
